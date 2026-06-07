@@ -4,7 +4,9 @@ title: About me
 subtitle: A brief personal description
 ---
 
-<img src="../images/CAREVOLUTION.png" width="650">
+<div align="center">
+<img src="/Carevolution/images/CAREVOLUTION.png" width="800">
+</div>
 
 # About Carevolution
 
