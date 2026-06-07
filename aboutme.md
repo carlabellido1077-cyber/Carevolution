@@ -4,22 +4,21 @@ title: About me
 subtitle: A brief personal description
 ---
 
-<div style="text-align:center;">
-  <img src="/Carevolution/images/CAREVOLUTION.png" width="500">
-</div>
+<img src="../images/CAREVOLUTION.png" width="650">
 
-About Carevolution
+# About Carevolution
 
-Carevolution is a digital health app designed for post-myocardial infarction patients and people at high risk of cardiovascular disease.
+Carevolution is a digital health platform designed for post-myocardial infarction patients and individuals at high cardiovascular risk.
 
-The core idea is to improve medication adherence through personalized reminders, financial rewards, and risk visualization. By helping patients stay consistent with their treatment, Carevolution aims to lower their cardiovascular risk and support long-term disease management.
+Our goal is to improve medication adherence through personalized reminders, cardiovascular risk visualization, and a reward-based motivation system.
 
-Main Features
-Personalized AI-based reminders for medication intake and health tracking.
-Supportive notifications that encourage patients without creating anxiety.
-Recommendations to contact a doctor if abnormal values are detected.
-Reward system to motivate medication adherence.
-Cardiovascular risk calculation to show patients how adherence can reduce their risk.
-Collection of health data to generate real-world evidence for pharmaceutical partners.
+## Main Features
 
-Carevolution is designed to support patients and healthcare professionals. It does not replace medical advice or regular clinical follow-up.
+- Personalized medication reminders
+- AI-powered patient support
+- Cardiovascular risk calculation
+- Reward system for treatment adherence
+- Early detection of abnormal health values
+- Real-world evidence generation for pharmaceutical partners
+
+Carevolution supports patients throughout their recovery journey while helping reduce recurrent cardiovascular events and avoidable hospitalizations.
