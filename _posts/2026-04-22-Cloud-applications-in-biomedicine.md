@@ -5,7 +5,9 @@ subtitle: Helping post-MI patients stay on treatment and reduce cardiovascular r
 ---
 
 
-![Carevolution Logo](/Carevolution/images/CAREVOLUTION.png)
+<div align="center">
+<img src="../images/CAREVOLUTION.png" width="900">
+</div>
 
 # About Carevolution
 
