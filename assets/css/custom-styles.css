@@ -1,8 +1,6 @@
 body {
-  border-left: 10px solid #D62828;
-  border-right: 10px solid #D62828;
-}
-
-.navbar {
-  border-top: 6px solid #D62828;
+  border-left: 10px solid #C1121F;
+  border-right: 10px solid #C1121F;
+  border-top: 10px solid #C1121F;
+  border-bottom: 10px solid #C1121F;
 }
