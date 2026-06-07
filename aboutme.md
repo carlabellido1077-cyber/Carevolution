@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: A brief personal description
+title: Carevolution
+subtitle: Improving medication adherence after cardiovascular events
 ---
 
 <div align="center">
-<img src="/Carevolution/images/CAREVOLUTION.png" width="800">
+<img src="images/CAREVOLUTION.png" width="800">
 </div>
 
 # About Carevolution
